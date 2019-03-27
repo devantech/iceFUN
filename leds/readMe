@@ -1,0 +1,8 @@
+To build the leds project, install the icestorm toolchain from http://www.clifford.at/icestorm/
+and the iceFUN programmer from https://github.com/devantech/iceFUNprog
+
+Open a terminal in the leds folder and enter:
+make iceFUN
+make burn
+
+
