@@ -1,0 +1,5 @@
+To build these projects, install the icestorm toolchain from http://www.clifford.at/icestorm/
+and the iceFUN programmer from https://github.com/devantech/iceFUNprog
+
+These projects run on the Devantech iceFUN iCE40-HX8K FPGA module.
+
