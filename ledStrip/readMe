@@ -1,0 +1,9 @@
+To build the ledstrip project, install the icestorm toolchain from http://www.clifford.at/icestorm/
+and the iceFUN programmer from https://github.com/devantech/iceFUNprog
+
+Open a terminal in the music folder and enter:
+make iceFUN
+make burn
+
+This project adds three pwm's to drive the high current LEDs, to the music project
+
