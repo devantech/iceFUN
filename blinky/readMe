@@ -1,0 +1,8 @@
+To build the blinky project, install the icestorm toolchain from http://www.clifford.at/icestorm/
+and the iceFUN programmer from https://github.com/devantech/iceFUNprog
+
+Open a terminal in the blinky folder and enter:
+make blinky
+make burn
+
+
